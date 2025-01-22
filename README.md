@@ -21,8 +21,8 @@ This Python tool allows you to transcribe audio and video files into text using 
 3. python -m venv .venv recommended
 
 4. Activate The Virtual Enviroment
-  .venv\Scripts\activate Windows
-   source .venv/bin/activate MacOS/Linux
+ Windows: .venv\Scripts\activate 
+  MacOS/Linux: source .venv/bin/activate 
 
 5. pip install -r requirements.txt
 
