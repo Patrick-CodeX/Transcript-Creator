@@ -29,7 +29,7 @@ This Python tool allows you to transcribe audio and video files into text using 
 6. You will need to install ffmpeg. Would recommend searching up a Youtube video on how to install
     [https://ffmpeg.org/download.html](url)
    
-7. The program will prompt with overriding a prior transcript that's already been created say "yes" if you want to override it, or it was never made
+7. The program will prompt with overriding a prior transcript that's already been created say "yes" if you want to override it, or if it was never made
 
 8. You can specify a directory or just say local and search the given folder
 
